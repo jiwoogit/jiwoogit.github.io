@@ -17,7 +17,7 @@
     <div class="links">
         <a href="https://arxiv.org/abs/2312.09008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
         <a href="https://github.com/jiwoogit/StyleID" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-        <a href="https://jiwoogit.github.io/_site/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+        <a href="https://jiwoogit.github.io/StyleID_site/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
         <!-- <strong><a style="color:#e74d3c; font-weight:600"><i>Oral Presentation</i></a></strong> -->
     </div>
   </div>
