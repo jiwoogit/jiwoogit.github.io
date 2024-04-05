@@ -12,8 +12,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2312.09008">Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer</a></div>
-    <div class="author"><strong>Jiwoo Chung*</strong>, Sangeek Hyun*, and Jae-Pil Heo (*: equal contribution)</div>
-    <div class="periodical"><em>IEEE/CVF Conference Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. Highlight</em></div>
+    <div class="author"><strong>Jiwoo Chung*</strong>, Sangeek Hyun*, and Jae-Pil Heo</div>
+    <div class="periodical"><em>IEEE/CVF Conference Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. (Highlight, *: equal contribution)</em></div>
     <div class="links">
         <a href="https://arxiv.org/abs/2312.09008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
         <a href="https://github.com/jiwoogit/StyleID" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
