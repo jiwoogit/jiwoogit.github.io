@@ -12,7 +12,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html">Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer</a></div>
-    <div class="author"><ul><strong>Jiwoo Chung*</strong></ul>, Sangeek Hyun*, and Jae-Pil Heo</div>
+    <div class="author"><u><strong>Jiwoo Chung*</strong></u>, Sangeek Hyun*, and Jae-Pil Heo</div>
     <div class="periodical"><em>IEEE/CVF Conference Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. (Highlight, *: equal contribution)</em></div>
     <div class="links">
         <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Diversity-aware_Channel_Pruning_for_StyleGAN_Compression_CVPR_2024_paper.html">Diversity-aware Channel Pruning for StyleGAN Compression
 </a></div>
-    <div class="author"><ul><strong>Jiwoo Chung</strong></ul>, Sangeek Hyun, Sang-Heon Shim, and Jae-Pil Heo</div>
+    <div class="author"><u><strong>Jiwoo Chung</strong></u>, Sangeek Hyun, Sang-Heon Shim, and Jae-Pil Heo</div>
     <div class="periodical"><em>IEEE/CVF Conference Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024</em></div>
     <div class="links">
         <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Diversity-aware_Channel_Pruning_for_StyleGAN_Compression_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -61,7 +61,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2312.15861">Towards Squeezing-Averse Virtual Try-On via Sequential Deformation</a></div>
-    <div class="author">Sang-Heon Shim, <ul><strong>Jiwoo Chung</strong></ul>, and Jae-Pil Heo</div>
+    <div class="author">Sang-Heon Shim, <u><strong>Jiwoo Chung</strong></u>, and Jae-Pil Heo</div>
     <div class="periodical"><em>Thirty-Eighth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2312.15861" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
@@ -82,7 +82,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10183834">Frequency-based Motion Representation for Video Generative Adversarial Networks</a></div>
-    <div class="author">Sangeek Hyun, Jaihyun Lew, <ul><strong>Jiwoo Chung</strong></ul>, Euiyeon Kim, and Jae-Pil Heo</div>
+    <div class="author">Sangeek Hyun, Jaihyun Lew, <u><strong>Jiwoo Chung</strong></u>, Euiyeon Kim, and Jae-Pil Heo</div>
     <div class="periodical"><em>IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023
 </em></div>
     <div class="links">
