@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a M.S graduate student at [Visual Computing Lab](https://sites.google.com/site/vclabskku) advised by [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo).
+
 I will begin my Ph.D. at Sungkyunkwan University in September 2024.
 
 ## Research Interests
