@@ -7,13 +7,13 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/styleid_thumb_resize.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <!-- <abbr class="badge">CVPR</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html">Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer</a></div>
     <div class="author"><u><strong>Jiwoo Chung</strong></u>*, Sangeek Hyun*, and Jae-Pil Heo</div>
-    <div class="periodical"><em>IEEE/CVF Conference Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. (Highlight, *: equal contribution)</em></div>
+    <div class="periodical"><em>IEEE/CVF Conference Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. (<span style="color:red;">Highlight</span>, *: equal contribution)</em></div>
     <div class="links">
         <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
         <a href="https://arxiv.org/abs/2312.09008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
@@ -31,7 +31,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/dcpgan_thumb_resize.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <!-- <abbr class="badge">CVPR</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -56,7 +56,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/AAAI_2024.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AAAI</abbr>
+    <!-- <abbr class="badge">AAAI</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -77,7 +77,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TIP_2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TIP</abbr>
+    <!-- <abbr class="badge">TIP</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
