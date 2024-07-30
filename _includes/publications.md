@@ -55,7 +55,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/AAAI_2024.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/sdviton_thumb_resize.png" class="teaser img-fluid z-depth-1">
     <!-- <abbr class="badge">AAAI</abbr> -->
   </div>
 
