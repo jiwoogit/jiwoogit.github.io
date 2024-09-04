@@ -12,9 +12,9 @@ My research interests lie in image synthesis and editing.
 
 ## Education
 
-- **[Sep,2024 - present]** Sungkyunkwan University, South Korea / Ph.D. in Artificial Intelligence (Advisor: [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo))
-- **[Mar,2022 - Feb,2024]** Sungkyunkwan University, South Korea / M.S in Artificial Intelligence (Advisor: [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo))
-- **[Mar,2016 - Feb,2022]** Sungkyunkwan University, South Korea / B.S. in Computer Science & Engineering
+- **[2024 - present]** Sungkyunkwan University, South Korea / Ph.D. in Artificial Intelligence (Advisor: [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo))
+- **[2022 - 2024]** Sungkyunkwan University, South Korea / M.S in Artificial Intelligence (Advisor: [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo))
+- **[2016 - 2022]** Sungkyunkwan University, South Korea / B.S. in Computer Science & Engineering
 
 <!-- ## News
 
