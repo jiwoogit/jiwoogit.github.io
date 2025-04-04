@@ -26,6 +26,33 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
+@media print, screen and (max-width: 480px) {
+  .col-sm-9 {
+    width: 100%;
+    margin-top: 1rem;
+  }
+  
+  .publications ol.bibliography li .teaser {
+    width: 167px;
+    height: 133px;
+    margin: 5px auto;
+    display: block;
+  }
+}
+
+@media print, screen and (min-width: 481px) {
+  .publications ol.bibliography li .teaser { 
+    border-radius: 2px; 
+    box-shadow: 3px 3px 6px #888; 
+    height: 133px; 
+    width: 270px; 
+    margin-top: 5px; 
+    margin-left: 5px; 
+    margin-bottom: 5px; 
+    object-fit: fill; 
+  }
+}
+
 .publications { margin-top: 2rem; }
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
@@ -78,5 +105,3 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden { border: dashed 1px var(--global-bg-color); }
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
-
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
