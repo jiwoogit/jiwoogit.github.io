@@ -23,7 +23,6 @@
 </div>
 </li>
 
-<br>
 
 <li style="background-color: rgba(255,165,0,0.06); border-radius: 8px; padding: 5px 5px 20px 5px;">
 <div class="pub-row">
@@ -46,8 +45,6 @@
   </div>
 </div>
 </li>
-  
-<br>
 
 <li style="background-color: rgba(255,165,0,0.06); border-radius: 8px; padding: 5px 5px 20px 5px;">
 <div class="pub-row">
@@ -71,10 +68,8 @@
   </div>
 </div>
 </li>
-  
-<br>
 
-<li>
+<li style="padding: 5px 5px 20px 5px;">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/sdviton_thumb_resize.png" class="teaser img-fluid z-depth-1">
@@ -92,10 +87,8 @@
   </div>
 </div>
 </li>
-  
-<br>
 
-<li>
+<li style="padding: 5px 5px 20px 5px;">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TIP_2023.png" class="teaser img-fluid z-depth-1">
@@ -115,8 +108,6 @@
 </div>
 </li>
   
-<br>
-
 
 </ol>
 </div>
