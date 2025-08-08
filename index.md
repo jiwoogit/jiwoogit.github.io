@@ -10,13 +10,10 @@ My research interests lie in image & video synthesis and editing.
 ## News
 
 - **[June. 2025]** One paper about personalized generation is presented to [ICCV 2025](https://jiwoogit.github.io/ARBooth/).
+- **[May. 2025]** Started Research Internship at Naver Cloud.
 
 
 {% include_relative _includes/publications.md %}
-
-## Experience
-
-- **[2025 - present]** Research Intern in Naver Cloud, hosted by Yongjoon Hong
 
 ## Education
 
@@ -26,4 +23,4 @@ My research interests lie in image & video synthesis and editing.
 
 ## Reviewer
 
-- NeurIPS, TPAMI
+- AAAI, NeurIPS, TPAMI
