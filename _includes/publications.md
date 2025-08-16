@@ -16,8 +16,8 @@
     <div class="periodical"><em><strong>ICCV 2025</strong> </em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2504.02612" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
-      <a href="https://github.com/jiwoogit/ARBooth" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://jiwoogit.github.io/ARBooth" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/jiwoogit/VARBooth" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://jiwoogit.github.io/VARBooth" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
     </div>
   </div>
 </div>
