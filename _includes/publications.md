@@ -15,6 +15,7 @@
     <div class="author"><u><strong>Jiwoo Chung</strong></u>, Sangeek Hyun, Hyunjun Kim, Eunseo Koh, MinKyu Lee, and Jae-Pil Heo</div>
     <div class="periodical"><em><strong>ICCV 2025</strong> </em></div>
     <div class="links">
+      <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Chung_Fine-Tuning_Visual_Autogressive_Models_for_Subject-Driven_Generation_ICCV_2025_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://arxiv.org/abs/2504.02612" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
       <a href="https://github.com/jiwoogit/ARBooth" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://jiwoogit.github.io/ARBooth" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
