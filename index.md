@@ -23,4 +23,4 @@ My research interests lie in image & video synthesis and editing.
 
 ## Reviewer
 
-- AAAI, NeurIPS, TPAMI
+- 2025: AAAI, NeurIPS, TPAMI, 2026: CVPR, ECCV

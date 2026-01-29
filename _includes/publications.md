@@ -3,6 +3,40 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li style="padding: 5px 5px 20px 5px;">
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ICLR_2026.jpg" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openreview.net/pdf?id=SbLj5hJXh6">Analyzing the Training Dynamics of Image Restoration Transformers: A Revisit to Layer Normalization</a></div>
+    <div class="author">MinKyu Lee, Sangeek Hyun, Woojin Jun, Hyunjun Kim, <u><strong>Jiwoo Chung</strong></u>, and Jae-Pil Heo</div>
+    <div class="periodical"><em><strong>ICLR 2026</strong></em></div>
+    <div class="links">
+      <a href="https://openreview.net/forum?id=SbLj5hJXh6" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li style="padding: 5px 5px 20px 5px;">
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/NeurIPS_2025.jpg" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openreview.net/pdf/7ff0100a63a0e1cc6731d8c6d26810d39d528d73.pdf">Diffusion Feature Field for Text-based 3D Editing with Gaussian Splatting</a></div>
+    <div class="author">Eunseo Koh, Sangeek Hyun, MinKyu Lee, <u><strong>Jiwoo Chung</strong></u>, Kangmin Seo, and Jae-Pil Heo</div>
+    <div class="periodical"><em><strong>NeurIPS 2025</strong></em></div>
+    <div class="links">
+      <a href="https://openreview.net/forum?id=Kf9eNbp4wy" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
+    </div>
+  </div>
+</div>
+</li>
+
 <li style="background-color: rgba(255,165,0,0.06); border-radius: 8px; padding: 5px 5px 20px 5px;">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
