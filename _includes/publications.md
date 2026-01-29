@@ -11,7 +11,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openreview.net/pdf?id=SbLj5hJXh6">Analyzing the Training Dynamics of Image Restoration Transformers: A Revisit to Layer Normalization</a></div>
-    <div class="author">MinKyu Lee, Sangeek Hyun, Woojin Jun, Hyunjun Kim, <u><strong>Jiwoo Chung</strong></u>, and Jae-Pil Heo</div>
+    <div class="author">MinKyu&nbsp;Lee, Sangeek&nbsp;Hyun, Woojin&nbsp;Jun, Hyunjun&nbsp;Kim, <u><strong>Jiwoo&nbsp;Chung</strong></u>, and Jae&#8209;Pil&nbsp;Heo</div>
     <div class="periodical"><em><strong>ICLR 2026</strong></em></div>
     <div class="links">
       <a href="https://openreview.net/forum?id=SbLj5hJXh6" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
@@ -28,7 +28,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openreview.net/pdf/7ff0100a63a0e1cc6731d8c6d26810d39d528d73.pdf">Diffusion Feature Field for Text-based 3D Editing with Gaussian Splatting</a></div>
-    <div class="author">Eunseo Koh, Sangeek Hyun, MinKyu Lee, <u><strong>Jiwoo Chung</strong></u>, Kangmin Seo, and Jae-Pil Heo</div>
+    <div class="author">Eunseo&nbsp;Koh, Sangeek&nbsp;Hyun, MinKyu&nbsp;Lee, <u><strong>Jiwoo&nbsp;Chung</strong></u>, Kangmin&nbsp;Seo, and Jae&#8209;Pil&nbsp;Heo</div>
     <div class="periodical"><em><strong>NeurIPS 2025</strong></em></div>
     <div class="links">
       <a href="https://openreview.net/forum?id=Kf9eNbp4wy" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
@@ -46,7 +46,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2504.02612">Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation</a></div>
-    <div class="author"><u><strong>Jiwoo Chung</strong></u>, Sangeek Hyun, Hyunjun Kim, Eunseo Koh, MinKyu Lee, and Jae-Pil Heo</div>
+    <div class="author"><u><strong>Jiwoo&nbsp;Chung</strong></u>, Sangeek&nbsp;Hyun, Hyunjun&nbsp;Kim, Eunseo&nbsp;Koh, MinKyu&nbsp;Lee, and Jae&#8209;Pil&nbsp;Heo</div>
     <div class="periodical"><em><strong>ICCV 2025</strong> </em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Chung_Fine-Tuning_Visual_Autogressive_Models_for_Subject-Driven_Generation_ICCV_2025_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -68,7 +68,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html">Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer</a></div>
-    <div class="author"><u><strong>Jiwoo Chung</strong></u>*, Sangeek Hyun*, and Jae-Pil Heo (*: equal contribution)</div>
+    <div class="author"><u><strong>Jiwoo&nbsp;Chung</strong></u>*, Sangeek&nbsp;Hyun*, and Jae&#8209;Pil&nbsp;Heo (*:&nbsp;equal&nbsp;contribution)</div>
     <div class="periodical"><em><strong>CVPR 2024.</strong> <span style="color:red;">Highlight (Top 10%)</span></em></div>
     <div class="links">
         <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -91,7 +91,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Diversity-aware_Channel_Pruning_for_StyleGAN_Compression_CVPR_2024_paper.html">Diversity-aware Channel Pruning for StyleGAN Compression
 </a></div>
-    <div class="author"><u><strong>Jiwoo Chung</strong></u>, Sangeek Hyun, Sang-Heon Shim, and Jae-Pil Heo</div>
+    <div class="author"><u><strong>Jiwoo&nbsp;Chung</strong></u>, Sangeek&nbsp;Hyun, Sang&#8209;Heon&nbsp;Shim, and Jae&#8209;Pil&nbsp;Heo</div>
     <div class="periodical"><em><strong>CVPR 2024</strong></em></div>
     <div class="links">
         <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Diversity-aware_Channel_Pruning_for_StyleGAN_Compression_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -113,7 +113,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2312.15861">Towards Squeezing-Averse Virtual Try-On via Sequential Deformation</a></div>
-    <div class="author">Sang-Heon Shim, <u><strong>Jiwoo Chung</strong></u>, and Jae-Pil Heo</div>
+    <div class="author">Sang&#8209;Heon&nbsp;Shim, <u><strong>Jiwoo&nbsp;Chung</strong></u>, and Jae&#8209;Pil&nbsp;Heo</div>
     <div class="periodical"><em><strong>AAAI 2024</strong></em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2312.15861" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
@@ -132,7 +132,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10183834">Frequency-based Motion Representation for Video Generative Adversarial Networks</a></div>
-    <div class="author">Sangeek Hyun, Jaihyun Lew, <u><strong>Jiwoo Chung</strong></u>, Euiyeon Kim, and Jae-Pil Heo</div>
+    <div class="author">Sangeek&nbsp;Hyun, Jaihyun&nbsp;Lew, <u><strong>Jiwoo&nbsp;Chung</strong></u>, Euiyeon&nbsp;Kim, and Jae&#8209;Pil&nbsp;Heo</div>
     <div class="periodical"><em><strong>TIP 2023</strong>
 </em></div>
     <div class="links">
