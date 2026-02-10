@@ -48,6 +48,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2504.02612">Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation</a></div>
     <div class="author"><u><strong>Jiwoo&nbsp;Chung</strong></u>, Sangeek&nbsp;Hyun, Hyunjun&nbsp;Kim, Eunseo&nbsp;Koh, MinKyu&nbsp;Lee, and Jae&#8209;Pil&nbsp;Heo</div>
     <div class="periodical"><em><strong>ICCV 2025</strong> </em></div>
+    <div class="periodical"><em><span style="color:#1F3A5F;">Qualcomm Innovation Fellowship Korea 2025 Finalist</span></em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Chung_Fine-Tuning_Visual_Autogressive_Models_for_Subject-Driven_Generation_ICCV_2025_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://arxiv.org/abs/2504.02612" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>

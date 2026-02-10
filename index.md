@@ -4,8 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [Visual Computing Lab](https://sites.google.com/site/vclabskku) advised by [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo).
-My research interests lie in image & video synthesis and editing.
+<div class="about" markdown="1">
+
+I am a Ph.D. student at [Visual Computing Lab](https://sites.google.com/site/vclabskku) at **Sungkyunkwan University (SKKU)**, advised by [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo). I received my M.S. and B.S. degrees from **SKKU**.
+
+My research interests lie in **Generative Models**. Recently, I have been focusing on 3D foundation models and diffusion model acceleration.
+
+Previously, I interned at **NAVER Cloud** (2025.05 - 2025.09), where I conducted research on video diffusion acceleration using cache.
+
+</div>
+
+<!-- I am a Ph.D. student at [Visual Computing Lab](https://sites.google.com/site/vclabskku) advised by [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo).
+My research interests lie in image & video synthesis and editing. -->
 
 ## News
 
@@ -15,11 +25,11 @@ My research interests lie in image & video synthesis and editing.
 
 {% include_relative _includes/publications.md %}
 
-## Education
+<!-- ## Education
 
 - **[2024 - present]** Sungkyunkwan University, South Korea / Ph.D. in Artificial Intelligence (Advisor: [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo))
 - **[2022 - 2024]** Sungkyunkwan University, South Korea / M.S in Artificial Intelligence (Advisor: [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo))
-- **[2016 - 2022]** Sungkyunkwan University, South Korea / B.S. in Computer Science & Engineering
+- **[2016 - 2022]** Sungkyunkwan University, South Korea / B.S. in Computer Science & Engineering -->
 
 ## Reviewer
 
