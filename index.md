@@ -19,8 +19,9 @@ My research interests lie in image & video synthesis and editing. -->
 
 ## News
 
-- **[June. 2025]** One paper about personalized generation is presented to [ICCV 2025](https://jiwoogit.github.io/ARBooth/).
-- **[May. 2025]** Started Research Internship at Naver Cloud.
+- **[Feb. 2026]** New paper on diffusion acceleration (**SeaCache**) accepted to **CVPR 2026**!
+- **[Jun. 2025]** New paper on personalized generation ([**ARBooth**](https://jiwoogit.github.io/ARBooth/)) presented at **ICCV 2025**.
+- **[May. 2025]** Started Research Internship at **NAVER Cloud**.
 
 
 {% include_relative _includes/publications.md %}

@@ -3,6 +3,28 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li style="background-color: rgba(255,165,0,0.06); border-radius: 8px; padding: 5px 5px 20px 5px;">
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/CVPR2026_seacache_thumbnail.gif" class="teaser img-fluid z-depth-1">
+    <!-- <abbr class="badge">CVPR</abbr> -->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models</a></div>
+    <div class="author"><u><strong>Jiwoo&nbsp;Chung</strong></u>, Sangeek&nbsp;Hyun, MinKyu&nbsp;Lee, Byeongju&nbsp;Han, Geonho&nbsp;Cha, Dongyoon&nbsp;Wee, Youngjun&nbsp;Hong*, and Jae&#8209;Pil&nbsp;Heo* (*:&nbsp;Co&#8209;corresponding&nbsp;authors.)</div>
+    <div class="periodical"><em><strong>CVPR 2026</strong></em></div>
+    <div class="links">
+        <!-- <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a> -->
+        <!-- <a href="https://arxiv.org/abs/2312.09008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> -->
+        <a href="https://github.com/jiwoogit/SeaCache" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://jiwoogit.github.io/SeaCache/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+        <!-- <strong><a style="color:#e74d3c; font-weight:600"><i>Oral Presentation</i></a></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
 <li style="padding: 5px 5px 20px 5px;">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -70,7 +92,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html">Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer</a></div>
     <div class="author"><u><strong>Jiwoo&nbsp;Chung</strong></u>*, Sangeek&nbsp;Hyun*, and Jae&#8209;Pil&nbsp;Heo (*:&nbsp;equal&nbsp;contribution)</div>
-    <div class="periodical"><em><strong>CVPR 2024.</strong> <span style="color:red;">Highlight (Top 10%)</span></em></div>
+    <div class="periodical"><em><strong>CVPR 2024</strong> <span style="color:red;"> Highlight (Top 10%)</span></em></div>
     <div class="links">
         <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
         <a href="https://arxiv.org/abs/2312.09008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
