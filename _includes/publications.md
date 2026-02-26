@@ -37,6 +37,8 @@
     <div class="periodical"><em><strong>ICLR 2026</strong></em></div>
     <div class="links">
       <a href="https://openreview.net/forum?id=SbLj5hJXh6" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
+      <a href="https://arxiv.org/abs/2504.06629" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      <a href="https://github.com/2minkyulee/i-LN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
