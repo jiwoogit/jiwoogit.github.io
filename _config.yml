@@ -8,7 +8,10 @@ email: jiwoo.jg@gmail.com
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Jiwoo Chung, Jiwoo
 description: Personal page of Jiwoo Chung.
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://jiwoogit.github.io/
+url: "https://jiwoogit.github.io"
+plugins:
+  - jekyll-sitemap
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
