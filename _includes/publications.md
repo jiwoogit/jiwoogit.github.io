@@ -13,7 +13,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2602.18993">SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models</a></div>
     <div class="author"><u><strong>Jiwoo&nbsp;Chung</strong></u>, Sangeek&nbsp;Hyun, MinKyu&nbsp;Lee, Byeongju&nbsp;Han, Geonho&nbsp;Cha, Dongyoon&nbsp;Wee, Youngjun&nbsp;Hong*, and Jae&#8209;Pil&nbsp;Heo* (*:&nbsp;Co&#8209;corresponding&nbsp;authors.)</div>
-    <div class="periodical"><em><strong>CVPR 2026</strong></em></div>
+    <div class="periodical"><em><strong>CVPR 2026</strong> <span style="color:red;"> Oral</span></em></div>
     <div class="links">
         <!-- <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a> -->
         <a href="https://arxiv.org/abs/2602.18993" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
