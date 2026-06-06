@@ -18,7 +18,7 @@ Previously, I interned at **NAVER Cloud** (2025.05 - 2025.09), where I conducted
 My research interests lie in image & video synthesis and editing. -->
 
 ## News
-
+- **[Jun. 2026]** SeaCache was selected as a **Best Paper Finalist** at CVPR 2026!
 - **[Feb. 2026]** New paper on diffusion acceleration (**SeaCache**) accepted to **CVPR 2026**!
 - **[Jun. 2025]** New paper on personalized generation ([**ARBooth**](https://jiwoogit.github.io/ARBooth/)) presented at **ICCV 2025**.
 - **[May. 2025]** Started Research Internship at **NAVER Cloud**.
