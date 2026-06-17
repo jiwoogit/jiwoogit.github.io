@@ -6,11 +6,7 @@ layout: homepage
 
 <div class="about" markdown="1">
 
-I am a Ph.D. student at [Visual Computing Lab](https://sites.google.com/site/vclabskku) at **Sungkyunkwan University (SKKU)**, advised by [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo). I received my M.S. and B.S. degrees from **SKKU**.
-
-My research interests lie in **Generative Models**. Recently, I have been focusing on 3D foundation models and diffusion model acceleration.
-
-Previously, I interned at **NAVER Cloud** (2025.05 - 2025.09), where I conducted research on video diffusion acceleration using cache.
+I am a Ph.D. student at the [Visual Computing Lab](https://sites.google.com/site/vclabskku), Sungkyunkwan University (SKKU), advised by [Prof. Jae-Pil Heo](https://sites.google.com/site/jaepilheo). I received my M.S. and B.S. degrees from SKKU. My research interests lie in **Generative Models**, with a recent focus on world models and diffusion model acceleration.. Previously, I interned at **NAVER Cloud** (2025.05 - 2025.09), where I worked on accelerating video diffusion models using caching.. **I am currently seeking research internship opportunities**
 
 </div>
 
