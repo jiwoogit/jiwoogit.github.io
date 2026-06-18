@@ -13,12 +13,12 @@ I am a Ph.D. student at the [Visual Computing Lab](https://sites.google.com/site
 My research interests lie in image & video synthesis and editing. -->
 
 ## News
-- **[Jun. 2026]** SeaCache was selected as a **Best Paper Finalist** at CVPR 2026! <span style="color:red;">(Top 0.1%, 15/16092)</span>
-- **[Feb. 2026]** New paper ([**SeaCache**](https://jiwoogit.github.io/SeaCache/)) accepted to **CVPR 2026**!
-- **[Jun. 2025]** New paper ([**ARBooth**](https://jiwoogit.github.io/ARBooth/)) accepted to **ICCV 2025**.
+- **[Jun. 2026]** SeaCache was selected as a **Best Paper Finalist** at **CVPR 2026**! <span style="color:red;">(Top 0.1%, 15/16092)</span>
+- **[Feb. 2026]** [**SeaCache**](https://jiwoogit.github.io/SeaCache/) accepted to **CVPR 2026**!
+- **[Jun. 2025]** [**ARBooth**](https://jiwoogit.github.io/ARBooth/) accepted to **ICCV 2025**.
 - **[May. 2025]** Started Research Internship at **NAVER Cloud**.
-- **[Apr. 2024]** StyleID was selected as a *Highlight** at CVPR 2024! <span style="color:red;">(Top 2.8%, 324/11532)</span>
-- **[Feb. 2024]** Two paper ([**DCP-GAN**](https://jiwoogit.github.io/DCP-GAN_site/),[**StyleID**](https://jiwoogit.github.io/StyleID_site/)) accepted to **CVPR 2024**.
+- **[Apr. 2024]** StyleID was selected as a **Highlight** at **CVPR 2024**! <span style="color:red;">(Top 2.8%, 324/11532)</span>
+- **[Feb. 2024]** [**DCP-GAN**](https://jiwoogit.github.io/DCP-GAN_site/) and [**StyleID**](https://jiwoogit.github.io/StyleID_site/) accepted to **CVPR 2024**.
 
 
 {% include_relative _includes/publications.md %}
